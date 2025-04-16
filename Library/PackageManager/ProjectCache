@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638803754665513217
-    m_Hash: 2009023186
+      ticks: 638803945355677171
+    m_Hash: 3665180510
   m_LockFileStatus:
     m_FilePath: D:/Work/Learn/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638803754665554477
-    m_Hash: 3772786475
+      ticks: 638803945355677171
+    m_Hash: 819238003
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -4543,7 +4543,6 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.5.3
-    - 2.5.7
     - 2.6.0-exp.2
     compatible:
     - 1.2.4
@@ -4574,7 +4573,6 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     - 2.5.3
-    - 2.5.7
     - 2.6.0-exp.2
     recommended: 1.2.4
     deprecated: []
