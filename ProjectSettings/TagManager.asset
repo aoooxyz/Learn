@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: MapW
+    uniqueID: 3439879069
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2101991773
+    locked: 0
+  - name: Npc
+    uniqueID: 205177227
+    locked: 0
+  - name: Player
+    uniqueID: 608178363
+    locked: 0
+  - name: MapH
+    uniqueID: 2938543911
+    locked: 0
